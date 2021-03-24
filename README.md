@@ -4,9 +4,9 @@
 
 > Um e-commerce de Macarons
 
-### 🏠 [Homepage](carlosheds.github.io/macaron-shop)
+### 🏠 [Homepage](https://carlosheds.github.io/macaron-shop)
 
-### ✨ [Demo](carlosheds.github.io/macaron-shop)
+### ✨ [Demo](https://carlosheds.github.io/macaron-shop)
 
 ## Author
 
