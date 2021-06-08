@@ -12,13 +12,13 @@
 	<atom:link href="https://carlosheds.github.io/macaron-shop/loja/feed/" rel="self" type="application/rss+xml" />
 	<link>https://carlosheds.github.io/macaron-shop</link>
 	<description>A loja mais querida de Macarons</description>
-	<lastBuildDate>Tue, 23 Mar 2021 20:10:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Mar 2021 20:08:41 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
 	<url>https://carlosheds.github.io/macaron-shop/wp-content/uploads/2021/03/icone.png</url>
@@ -28,23 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Chilli Pepper Cream</title>
-		<link>https://carlosheds.github.io/macaron-shop/produto/chilli-pepper-cream/</link>
-					<comments>https://carlosheds.github.io/macaron-shop/produto/chilli-pepper-cream/#respond</comments>
-		
-		<dc:creator><![CDATA[carlosheds]]></dc:creator>
-		<pubDate>Tue, 23 Mar 2021 20:10:33 +0000</pubDate>
-				<guid isPermaLink="false">https://carlosheds.github.io/macaron-shop/?post_type=product&#038;p=147</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://carlosheds.github.io/macaron-shop/produto/chilli-pepper-cream/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Snow Cream</title>
 		<link>https://carlosheds.github.io/macaron-shop/produto/snow-cream/</link>
 					<comments>https://carlosheds.github.io/macaron-shop/produto/snow-cream/#respond</comments>
